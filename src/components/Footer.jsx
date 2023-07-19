@@ -15,7 +15,7 @@ const Footer = () => {
       
     
 
-      <p className='font-mono text-center text-gray-500'>All rights reserved. <br className='md:hidden'/> Created by Muhammad Urwah</p>
+      <p className='font-mono text-center text-gray-500'>All rights reserved. <br className='md:hidden'/> Created by Ammar Khan</p>
     </footer>
   )
 }
